@@ -1,0 +1,76 @@
+.conteneur {
+	display:flex;
+	border: 10px solid grey;
+	background-position: center;
+	background-color: lightgrey;
+	width: 267px;
+	height: 295px;
+	margin-left:40%;
+	margin-top: 15%;
+	
+}
+ul{
+	list-style-type: none;
+
+}
+li{
+	
+	margin-bottom: 0px;
+
+
+}
+img{
+	height: 35px;
+	width: 35px;
+	border:0.1px dotted grey;
+}
+.ligneUne {
+	position: relative;
+	top: -17px;
+	left: -40px;
+	line-height: 0px;
+
+}
+.ligneDeux{
+	position: relative;
+	top: -17px;
+	left: -84px;
+	line-height: 0px;
+
+}
+.ligneTrois{
+	position: relative;
+	top: -17px;
+	left: -129px;
+	line-height: 0px;
+}
+.ligneQuatre{
+	position: relative;
+	top: -17px;
+	left: -173px;
+	line-height: 0px;
+}
+.ligneCinq{
+	position: relative;
+	top: -17px;
+	left: -217px;
+	line-height: 0px;
+}
+.ligneSix{
+	position: relative;
+	top: -17px;
+	left: -261px;
+	line-height: 0px;
+}
+.ligneSept{
+	position: relative;
+	top: -17px;
+	left: -305px;
+	line-height: 0px;
+}
+.ligneHuit{
+	position: relative;
+	top: -17px;
+	left: -349px;
+	line-height: 0px;
+}
